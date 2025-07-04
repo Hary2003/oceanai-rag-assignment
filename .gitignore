@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+chroma_db/
+*.pdf
+*.jpg
+*.png
+.DS_Store
+.venv/
+venv/
+.log

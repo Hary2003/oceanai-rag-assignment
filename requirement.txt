@@ -1,0 +1,11 @@
+streamlit
+PyMuPDF
+pillow
+pytesseract
+langchain
+langchain-community
+langchain-ollama
+langchain-chroma
+sentence-transformers
+chromadb
+ollama
