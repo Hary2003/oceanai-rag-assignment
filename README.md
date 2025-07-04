@@ -44,3 +44,13 @@ pytesseract (OCR)
 
 - [Harisankar M](https://www.github.com/Hary2003)
 
+((( oceanai-rag/
+├── app.py                  # Main Streamlit app      
+├── requirements.txt        # Dependencies
+├── README.md               # Project documentation
+├── .gitignore              # Ignored files/folders
+├── assets/                 # Optional: images or model files
+│   └── screenshot.png
+└── data/                   # Optional: example PDFs or images
+    └── sample.pdf
+ )))
