@@ -44,6 +44,7 @@ pytesseract (OCR)
 
 - [Harisankar M](https://www.github.com/Hary2003)
 
+##File Structure
 ``` oceanai-rag/
 ├── app.py                  # Main Streamlit app      
 ├── requirements.txt        # Dependencies
